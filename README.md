@@ -6,6 +6,8 @@ I am a student from BUPT(Beijing University of Posts and Telecommunications), te
 
 My waifu is `skadi` from [Arknights](https://ak.hypergryph.com/)
 
+I like sharing, feel free to talk to me anytime, any question or topic. And to argue with any point you disagree. 
+
 I like ACGN and FPS/TPS games.
 
 - 🔭 I’m currently working on [novabot_v2](https://github.com/Nova-Noir/novabot_v2)
@@ -16,8 +18,7 @@ I like ACGN and FPS/TPS games.
 - ⚡ Fun fact: `Emilia` is also my waifu
 
 ---
-<img align="left" width="400" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_1.png">
 
-I like sharing, feel free to talk to me anytime, any question or topic. And to argue with any point you disagree. 
-
+<img align="left" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_1.png">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nova-Noir">
+
