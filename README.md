@@ -1,6 +1,6 @@
 ### Hi there, I'm [NovaNo1r](https://novanoir.dev) 👋
 
-<img align="right" width="500" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/image.png">
+<img align="right" width="600" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_skin1.png">
 
 I am a student from BUPT(Beijing University of Posts and Telecommunications), team member of [Merak](https://we.buptmerak.cn/). I want to try something new and interesting projects.
 
@@ -16,5 +16,8 @@ I like ACGN and FPS/TPS games.
 - ⚡ Fun fact: `Emilia` is also my waifu
 
 ---
+<img align="left" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_1.png">
 
 I like sharing, feel free to talk to me anytime, any question or topic. And to argue with any point you disagree. 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nova-Noir">
