@@ -20,5 +20,9 @@ I like ACGN and FPS/TPS games.
 ---
 
 <img align="left" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_1.png">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nova-Noir">
 
