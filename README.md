@@ -41,54 +41,10 @@ I like ACGN and FPS/TPS games.
 ![NovaNo1r](https://genshin-card.getloli.com/rand/178687579.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%207%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 294 Contributions in the Year 2022
- > 
-> 📦 129.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 50 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
-🌆 Daytime    111 commits    ████████░░░░░░░░░░░░░░░░░   35.13% 
-🌃 Evening    89 commits     ███████░░░░░░░░░░░░░░░░░░   28.16% 
-🌙 Night      61 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.3%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-Tuesday      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
-Wednesday    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
-Friday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
-Saturday     51 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-Sunday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Hong_Kong
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
@@ -102,20 +58,15 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            █████████████████████░░░░   85.71% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Python                   18 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   85.71% 
+CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.76% 
+JavaScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.76% 
+SCSS                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.76%
 
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Nova-Noir/Nova-Noir/main/charts/bar_graph.png) 
-
-
- Last Updated on 20/09/2022 13:50:22 UTC
 <!--END_SECTION:waka-->
 
 ### 🎵 Spotify
