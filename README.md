@@ -40,6 +40,8 @@ I like ACGN and FPS/TPS games.
 ### ⛄ Genshin Impact
 ![NovaNo1r](https://genshin-card.getloli.com/rand/178687579.png)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🎵 Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugp7yabqcdmrtwi7y7z4377mwy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
