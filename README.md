@@ -56,4 +56,4 @@ SCSS                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 ### 🎵 Spotify
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ugp7yabqcdmrtwi7y7z4377mwy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ugp7yabqcdmrtwi7y7z4377mwy&cover_image=true&theme=default&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugp7yabqcdmrtwi7y7z4377mwy&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ugp7yabqcdmrtwi7y7z4377mwy&redirect=true)
