@@ -45,13 +45,13 @@ I like ACGN and FPS/TPS games.
 
 ```text
 💬 Programming Languages: 
-Python                   21 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-stable-diffusion-webui   21 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 ```
 
