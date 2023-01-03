@@ -41,6 +41,20 @@ I like ACGN and FPS/TPS games.
 ![NovaNo1r](https://genshin-card.getloli.com/rand/178687579.png)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
