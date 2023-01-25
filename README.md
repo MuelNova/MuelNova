@@ -45,13 +45,13 @@ I like ACGN and FPS/TPS games.
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 4 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CTF                      1 hr 4 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 4 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+No Activity Tracked This Week
 
 ```
 
