@@ -37,9 +37,6 @@ I like ACGN and FPS/TPS games.
 ### 💰 Buy me a coffee
 * [爱发电](https://afdian.net/a/NovaNo1r)
 
-### ⛄ Genshin Impact
-![NovaNo1r](https://genshin-card.getloli.com/rand/178687579.png)
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
