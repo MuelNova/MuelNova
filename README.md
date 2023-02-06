@@ -10,10 +10,6 @@ I like sharing, feel free to talk to me anytime, any question or topics. And to 
 
 I love ACGN and FPS/TPS games.
 
-- 🔭 I’m currently working on [novabot_v2](https://github.com/NovaNoirBot/Nova-Bot)
-- 🌱 I’m currently learning [kotlin](https://github.com/JetBrains/kotlin), [Golang](https://go.dev/)
-- 💬 Ask me about `pwn` and `python`
-- 📫 How to reach me: In the sidebar
 - 😄 Pronouns: `Nova` or `Novanoir`
 - ⚡ Fun fact: `Emilia` is also my waifu
 
