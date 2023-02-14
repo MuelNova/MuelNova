@@ -26,7 +26,6 @@ I love ACGN and FPS/TPS games.
 [![Twitter](https://img.shields.io/twitter/follow/NovaNoir_?style=flat-square&color=1da1f2&label=%40NovaNoir_&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/NovaNoir_)
 [![Telegram](https://img.shields.io/badge/%40NovaNoir-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/DarkHoshi)
 [![Website](https://img.shields.io/badge/Website-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://novanoir.moe)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nova-Noir">
 
 ### 💰 Buy me a coffee
 * [爱发电](https://afdian.net/a/NovaNo1r)
@@ -63,4 +62,6 @@ JavaScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 ### 🎵 Spotify
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nova-Noir">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugp7yabqcdmrtwi7y7z4377mwy&cover_image=true&theme=default&bar_color_cover=false&bar_color=fe86ee)](https://spotify-github-profile.vercel.app/api/view?uid=31ugp7yabqcdmrtwi7y7z4377mwy&redirect=true)
