@@ -1,4 +1,4 @@
-### Hi there, I'm [NovaNo1r](https://novanoir.dev) 👋
+### Hi there, I'm [NovaNo1r](https://n.ova.moe) 👋
 
 <img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_skin1.png">
 
@@ -10,7 +10,7 @@ I like sharing, feel free to talk to me anytime, any question or topics. And to 
 
 I love ACGN and FPS/TPS games.
 
-- 😄 Pronouns: `Nova` or `Novanoir`
+- 😄 Pronouns: `Miyu Nova` or `Miu Nova`, or simply `Nova`
 - ⚡ Fun fact: `Emilia` is also my waifu
 
 ---
