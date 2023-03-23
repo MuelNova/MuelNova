@@ -1,4 +1,4 @@
-### Hi there, I'm [NovaNo1r](https://n.ova.moe) 👋
+### Hi there, I'm [Miu Nova](https://n.ova.moe) 👋
 
 <img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_skin1.png">
 
