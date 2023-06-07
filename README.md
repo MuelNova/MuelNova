@@ -77,6 +77,6 @@ SCSS                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 ### 🎵 Spotify
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nova-Noir">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuelNova">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugp7yabqcdmrtwi7y7z4377mwy&cover_image=true&theme=default&bar_color_cover=false&bar_color=fe86ee)](https://spotify-github-profile.vercel.app/api/view?uid=31ugp7yabqcdmrtwi7y7z4377mwy&redirect=true)
