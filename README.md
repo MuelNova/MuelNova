@@ -1,22 +1,25 @@
-### Hi there, I'm [Muel Nova](https://n.ova.moe) 👋
+### Hi there, I'm [mμel Nova](https://n.ova.moe) 👋
 
 <img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_skin1.png">
 
-Nova is a student from BUPT(Beijing University of Posts and Telecommunications), team member of [Merak](https://we.buptmerak.cn/). He like to try something new and interesting projects.
+Nova is a student from BUPT(Beijing University of Posts and Telecommunications), team member of **Merak** & **Dubhe**. He likes to try new and interesting stuffs.
 
 He focused on PWN when he participates CTF / AWD challenges.
 
-He is bad at pwn.
+He is bad at PWN.
 
-His waifu is `skadi` from [Arknights](https://ak.hypergryph.com/)
+He has a waifu `skadi(斯卡蒂)` from [Arknights](https://ak.hypergryph.com/) since 2019.
 
-He likes sharing, feel free to talk to him anytime, any question or topics. And to argue with any points you disagree. 
+He recently has a new waifu `muelsyse(缪尔赛思)` who also comes from [Arknights](https://ak.hypergryph.com/)
+> *缪缪* and *Nova* have lots in common. Check [\[是的，我更换了昵称！\]](https://n.ova.moe/blog/%E6%98%AF%E7%9A%84-%E6%88%91%E6%9B%B4%E6%8D%A2%E4%BA%86%E6%98%B5%E7%A7%B0) for detail. (Chinese Version only)
+
+He likes sharing, feel free to talk to him anytime, with any question or any topic. And to argue with any point you disagree. 
 
 He loves ACGN so much.
 
-- 😄 Pronouns: `Muel Nova` or `Miyu Nova`, or simply `Nova`
-- ⚡ Fun fact: `Emilia` is also his waifu
-- ⚡ Fun fact: He also wants to be a cute girl, but without any side effect ( Just like **Oyama Mahiro**! )
+- 😄 Pronouns: `Mμel Nova` or `μw Nova`, or simply `Nova` / `μw` (sounds like `meow`)
+- ⚡ Fun fact: He hopes that he can be a cute girl, but without any side effect ( Just like **Oyama Mahiro**! )
+- ☣️ Expensive habbit: He bought a lot of domains. "[缪.org](https://xn--qq0a.org)", "[ouo.sh](https://ouo.sh)", "[ova.moe](https://ova.moe)", etc...
 
 ---
 
