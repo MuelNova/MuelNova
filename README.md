@@ -1,6 +1,6 @@
 ### Hi there, I'm [mμel Nova](https://n.ova.moe) 👋
 
-<img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_浊心斯卡蒂_skin1.png">
+<img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_缪尔赛思_1.png">
 
 Nova is a student from BUPT(Beijing University of Posts and Telecommunications), team member of **Merak** & **Dubhe**. He likes to try new and interesting stuffs.
 
