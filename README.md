@@ -4,6 +4,8 @@
 
 Nova is a student from BUPT(Beijing University of Posts and Telecommunications), team member of **Merak** & **Dubhe**. He likes to try new and interesting stuffs.
 
+He is trying to do some research work related to system security in Group [vul337](https://netsec.ccert.edu.cn/chs/vul337) but without any progress.
+
 He focused on PWN when he participates CTF / AWD challenges.
 
 He is bad at PWN.
@@ -25,13 +27,14 @@ He loves ACGN so much.
 
 
 ### 💻 Environment
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=.env&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/)
+[![ArchWSL](https://img.shields.io/badge/ArchWSL-4A90E2?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=4A90E2)](https://github.com/yuk7/ArchWSL)
 
 
 ### 📫 Contact me
-[![Twitter](https://img.shields.io/twitter/follow/NovaNoir_?style=flat-square&color=1da1f2&label=%40NovaNoir_&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/NovaNoir_)
+[![Twitter](https://img.shields.io/twitter/follow/NovaNoir_?style=flat-square&color=1da1f2&label=%40NovaNoir_&logo=x&logoColor=FFFFFF&labelColor=1DA1F2)](https://x.com/NovaNoir_)
 [![Telegram](https://img.shields.io/badge/%40NovaNoir-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/DarkHoshi)
 [![Website](https://img.shields.io/badge/Website-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://n.ova.moe)
 
