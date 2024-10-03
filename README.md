@@ -2,13 +2,11 @@
 
 <img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_缪尔赛思_1.png">
 
-Nova is a student from BUPT(Beijing University of Posts and Telecommunications), team member of **Merak** & **Dubhe**. He likes to try new and interesting stuffs.
+Nova, a soon-to-be graduate student at Peking University's School of Computer Science, is currently a member of the 天枢Dubhe / 天璇Merak team at Beijing University of Posts and Telecommunications, participating in various competitions.
 
 He is trying to do some research work related to system security in Group [vul337](https://netsec.ccert.edu.cn/chs/vul337) but without any progress.
 
-He focused on PWN when he participates CTF / AWD challenges.
-
-He is bad at PWN.
+He focused on PWN, but due to a lack of practice in recent years, he made little progress. Now, he is trying to dig deeper into kernel exploitation, though he is still a beginner.
 
 He has a waifu `skadi(斯卡蒂)` from [Arknights](https://ak.hypergryph.com/) since 2019.
 
