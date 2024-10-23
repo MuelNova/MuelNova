@@ -33,7 +33,7 @@ He loves ACGN so much.
 
 ### 📫 Contact me
 [![Twitter](https://img.shields.io/twitter/follow/NovaNoir_?style=flat-square&color=1da1f2&label=%40MuEl-Nova&logo=x&logoColor=FFFFFF&labelColor=1DA1F2)](https://x.com/NovaNoir_)
-[![Telegram](https://img.shields.io/badge/%40MuEl-Nova-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/DarkHoshi)
+[![Telegram](https://img.shields.io/badge/%40MuEl-Nova-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/muelnova)
 [![Website](https://img.shields.io/badge/Website-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://nova.gal)
 
 ### 💰 Buy me a coffee
