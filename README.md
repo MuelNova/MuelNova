@@ -2,11 +2,9 @@
 
 <img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_缪尔赛思_1.png">
 
-Nova, a soon-to-be graduate student at Peking University's School of Computer Science, is currently a member of the 天枢Dubhe / 天璇Merak team at Beijing University of Posts and Telecommunications, participating in various competitions.
+Nova, graduate student at Peking University's School of Computer Science, was currently a member of the 天枢Dubhe / 天璇Merak team at Beijing University of Posts and Telecommunications, participating in various competitions.
 
-He is trying to do some research work related to system security in Group [vul337](https://netsec.ccert.edu.cn/chs/vul337) but without any progress.
-
-He focused on PWN, but due to a lack of practice in recent years, he made little progress. Now, he is trying to dig deeper into kernel exploitation, though he is still a beginner.
+He now focusing on some research work related to system security in Group [vul337](https://netsec.ccert.edu.cn/chs/vul337).
 
 He has a waifu `skadi(斯卡蒂)` from [Arknights](https://ak.hypergryph.com/) since 2019.
 
@@ -29,6 +27,8 @@ He loves ACGN so much.
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/)
 [![ArchWSL](https://img.shields.io/badge/ArchWSL-4A90E2?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=4A90E2)](https://github.com/yuk7/ArchWSL)
+[![MacOS](https://img.shields.io/badge/MacOS-00BBFF?style=flat-square&logo=.env&logoColor=FFFFFF&labelColor=00BBFF)](https://www.apple.com/os/macos/)
+
 
 
 ### 📫 Contact me
