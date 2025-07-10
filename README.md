@@ -2,9 +2,9 @@
 
 <img align="right" width="450" src="https://cdn.jsdelivr.net/gh/Nova-Noir/Nova-Noir/立绘_缪尔赛思_1.png">
 
-Nova, graduate student at Peking University's School of Computer Science, was currently a member of the 天枢Dubhe / 天璇Merak team at Beijing University of Posts and Telecommunications, participating in various competitions.
+Nova, graduate student at Peking University's School of Computer Science, was a PWNER of the 天枢Dubhe team at Beijing University of Posts and Telecommunications.
 
-He now focusing on some research work related to system security in Group [vul337](https://netsec.ccert.edu.cn/chs/vul337).
+He focus on some research work related to system security in Group [vul337](https://netsec.ccert.edu.cn/chs/vul337) & [pkucc](https://github.com/pkucclab)
 
 He has a waifu `skadi(斯卡蒂)` from [Arknights](https://ak.hypergryph.com/) since 2019.
 
@@ -13,11 +13,11 @@ He recently has a new waifu `muelsyse(缪尔赛思)` who also comes from [Arknig
 
 He likes sharing, feel free to talk to him anytime, with any question or any topic. And to argue with any point you disagree. 
 
-He loves ACGN so much.
+He used to love ACGN, but not now.
 
 - 😄 Pronouns: `Mμel Nova` or `μw Nova`, or simply `Nova` / `μw` (sounds like `meow`)
 - ⚡ Fun fact: He hopes that he can be a cute girl, but without any side effect ( Just like **Oyama Mahiro**! )
-- ☣️ Expensive habbit: He bought a lot of domains. "[缪.org](https://xn--qq0a.org)", "[ouo.sh](https://ouo.sh)", "[ova.moe](https://ova.moe)", "[nova.gal](https://nova.gal)", "[zm.md](https://zm.md)", etc...
+- ☣️ Expensive habbit: He bought a lot of domains. "[缪.org](https://xn--qq0a.org)" (expired), "[ouo.sh](https://ouo.sh)" (sold), "[ova.moe](https://ova.moe)", "[nova.gal](https://nova.gal)", "[zm.md](https://zm.md)", etc...
 
 ---
 
@@ -32,6 +32,7 @@ He loves ACGN so much.
 
 
 ### 📫 Contact me
+[![Email](https://img.shields.io/badge/Email-muel%40nova.gal-blue?logo=mail.ru&style=flat-square)](mailto://muel@nova.gal)
 [![Twitter](https://img.shields.io/twitter/follow/NovaNoir_?style=flat-square&color=1da1f2&label=%40MuEl-Nova&logo=x&logoColor=FFFFFF&labelColor=1DA1F2)](https://x.com/NovaNoir_)
 [![Telegram](https://img.shields.io/badge/%40MuEl-Nova-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/muelnova)
 [![Website](https://img.shields.io/badge/Website-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://nova.gal)
