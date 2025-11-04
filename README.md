@@ -44,6 +44,19 @@ He used to love ACGN, but not now.
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    1 hr 17 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+
+🐱‍💻 Projects: 
+syzkaller                1 hr 17 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+
+💻 Operating System: 
+WSL                      1 hr 17 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
