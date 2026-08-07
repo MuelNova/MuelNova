@@ -44,8 +44,6 @@ He used to love ACGN, but not now.
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-289%20hrs%2044%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
