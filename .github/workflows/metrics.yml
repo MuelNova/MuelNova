@@ -56,7 +56,7 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_provider: spotify
           plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
-          plugin_steam: yes
+          plugin_steam: "no"
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 0
           plugin_steam_playtime_threshold: 2
